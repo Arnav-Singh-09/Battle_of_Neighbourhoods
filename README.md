@@ -1,2 +1,2 @@
-# first-repository
-How to implement GitHub repositories
+# IBM Data Science Specialisation
+Project Implementing Cluster Analysis
